@@ -1,0 +1,23 @@
+form{
+    width: 500px;
+    height: 500px;
+    margin:0 auto 0 auto;
+    text-align: center;
+    border: 1px solid;
+}
+
+input{
+    font-size: medium;
+    text-align: center;
+    width: 75%;
+    height: 20%;
+    margin: 8px;
+    
+}
+
+.button{
+    margin: 15px;
+    width: 65%;
+    height: 10%;
+    background-color:cornflowerblue ;
+}
