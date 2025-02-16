@@ -27,4 +27,4 @@ HTML: Estrutura da página.
 CSS: Estilização da página.
 JavaScript: Lógica de cálculo do IMC e manipulação de eventos.
 
-<img src="calculadora.png">
+<img src="https://github.com/0Diegocsouza/Calculo-de-IMC/blob/main/calculadora.PNG">
